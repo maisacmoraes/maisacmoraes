@@ -21,9 +21,8 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maisacmoraes&bg_color=282c34&color=e5c07b&line=e06c75&point=98c379&area=true&hide_border=true&title_color=e5c07b)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
- ![Snake animation](https://github.com/maisacmoraes/maisacmoraes/blob/output/github-contribution-grid-snake.svg)
 
-
+![snake gif](https://github.com/maisacmoraes/maisacmoraes/blob/output/github-contribution-grid-snake.svg)
 
 
 
