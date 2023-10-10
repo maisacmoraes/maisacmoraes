@@ -51,8 +51,8 @@
 ##
 
 <div align="center">
-  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=maisacmoraes&show_icons=true&count_private=true&hide_border=true&theme=onedark" alt="Maisa Moraes github stats">
-  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maisacmoraes&layout=compact&hide_border=true&&theme=onedark" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=maisacmoraes&show_icons=true&count_private=true&hide_border=true&theme=onedark" alt="Maisa Moraes github stats">
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maisacmoraes&layout=compact&hide_border=true&&theme=onedark" />
 </div>
 
 <!-- 
