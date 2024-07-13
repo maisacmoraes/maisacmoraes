@@ -4,7 +4,7 @@
 
 <div align="justified">
   <p>
-    🔭 I'm currently seeking my first job opportunity in technology as a back-end developer!</strong>
+    👩🏽‍💻 I am currently working as a junior back-end developer, developing a financial application using Node.js and Nest.js. I have experience in creating APIs with Prisma, integrating with PostgreSQL databases, implementing unit and integration tests, and working with background jobs (queues) using Redis.</strong>
   </p>
   <p>
     🌱 I'm currently learning Java.</strong>
