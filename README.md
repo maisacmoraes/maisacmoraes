@@ -6,9 +6,7 @@
   <p>
     👩🏽‍💻 I am currently working as a junior back-end developer, developing a financial application using Node.js and Nest.js. I have experience in creating APIs with Prisma, integrating with PostgreSQL databases, implementing unit and integration tests, and working with background jobs (queues) using Redis.</strong>
   </p>
-  <p>
-    🌱 I am currently learning Java through The Oracle Next Education (ONE) program, an initiative by Oracle aimed at providing free educational opportunities in technology and soft skills for people in Latin America.</strong>
-  </p>
+  
   <p>
     🎓 I'm pursuing a degree in Analysis and Systems Development.</strong>
   </p>
