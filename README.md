@@ -2,7 +2,7 @@
   
 ## Hello, I'm Maisa! 👋
 
-I'm a **Junior Back-End Developer** passionate about technology and innovative solutions. 🚀
+I'm a **Web Developer** passionate about technology and innovative solutions. 🚀
 
 - 🔭 I’m currently working on building APIs with **Nest.js** and **Prisma**
 - 🌱 I’m expanding my skills in database integration using **PostgreSQL** and **MySQL**
