@@ -1,28 +1,10 @@
 <div align="justified">
   
-## Hello, I'm Maisa! 👋
+Software engineer with a back-end focus and full-stack experience, building scalable APIs and microservices with Node.js, NestJS, and TypeScript. Experienced with PostgreSQL, Redis, RabbitMQ, and modern architectures like Clean Architecture and DDD.
 
-I'm a **Web Developer** passionate about technology and innovative solutions. 🚀
-
-- 🔭 I’m currently working on building APIs with **Nest.js** and **Prisma**
-- 🌱 I’m expanding my skills in database integration using **PostgreSQL** and **MySQL**
-- 💬 Ask me about **Node.js, REST, JWT, OOP, SOLID, and Domain Driven Design**
-
-### About Me
+Currently integrating AI into applications, creating intelligent agents and automated workflows that connect systems to real-world business operations.
 
 I believe in the power of technology to connect, empower, and transform lives. My goal is to contribute to projects that generate a positive impact on society and build a more inclusive and accessible future for everyone.
-
-### Technical Skills
-
-**Languages:** JavaScript, TypeScript, Java
-
-**Databases:** PostgreSQL, MySQL
-
-**Frameworks & Libraries:** NestJS, Express, React, Spring Boot
-
-**Concepts:** Node.js, REST, JWT, ORM (Sequelize, Prisma), OOP, SOLID, Domain Driven Design, Agile Methodologies
-
-**Tools:** Docker, Unix & Bash, Git
 
 ### Contact
 
